@@ -1,6 +1,0 @@
-num1_int = int(input('Insira um número inteiro: '))
-num2_int = int(input('Insira o segundo número inteiro: '))
-num3_real = float(input('Insira um número real: '))
-print('O resultado provindo do produto do dobro do primeiro número, com a metade do segundo, é igual a: ', (2*num1_int)*(num2_int/2))
-print('O resultado da soma do triplo do primeiro número, com o terceiro, é igual a: ', (3*num1_int)+num3_real)
-print('O resultado do terceiro elevado ao cubo é: ', num3_real**3)
