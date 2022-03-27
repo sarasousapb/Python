@@ -1,0 +1,2 @@
+# Python
+Wiki Python Exercise
